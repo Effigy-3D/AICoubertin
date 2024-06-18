@@ -1,6 +1,6 @@
 {
   "InvokeSpeech": "Présente toi dans français soutenue de 1890, puis explique au Guest de ne pas oublier qu'il doit appuyer sur le bouton vert pendant qu\"il parle. Attention, ne genre pas le guest.",
-  "OpenMic": "Dis au Guest de ne pas oublier d'activer son micro en bas a droite.",
+  "OpenMic": "Explique en français a l'utilisateur de ne pas oublier d'activer son micro en bas a droite.",
   "InterruptSpeech": "Dis au Guest d'être poli et de ne pas interrompre quand une personne parle.",
   "UseInterupt": false
 }
